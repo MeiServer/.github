@@ -1,4 +1,4 @@
 ---
-name: Blank template
-about: Blank template
+name: 空のテンプレート
+about: テンプレートを使用しない場合に選択
 ---
